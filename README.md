@@ -1,6 +1,7 @@
-# bikeshare.py
+# Udacity Git Hub Project 
 
-Learn the programming fundamentals required for a career in data science. By the end of the program, you will be able to use Python, SQL, Command Line, and Git.
+This is a testing ground for following the project requirements for my Udacity Git project.
 
-Adding update so I can practice new formatting for commit messages. 
-Like this.
+The course is described as:
+
+"Learn the programming fundamentals required for a career in data science. By the end of the program, you will be able to use Python, SQL, Command Line, and Git."
